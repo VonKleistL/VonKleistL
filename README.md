@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @VonKleistL
-- 👀 I’m interested in things
-- 🌱 I’m currently learning music
-- 💞️ I’m looking to collaborate on music
-- 📫 How to reach me Insta
+Hi... 
 
 <!---
 VonKleistL/VonKleistL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
